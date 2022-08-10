@@ -1,0 +1,18 @@
+{
+  "lang": "Lenguaje",
+  "select": "Seleccionar",
+  "all_products": "Todos los productos",
+  "order_summary": "Resumen de su orden",
+  "cart_number_of_items": "Cantidad de productos",
+  "proceed_to_checkout": "Comprar",
+  "continue_shooping": "Continuar comprando",
+  "my_cart": "Mi carro",
+  "pack": "PAQUETE",
+  "quantity": "Cantidad",
+  "remove": "Eliminar",
+  "edit_pack": "Editar paquete",
+  "another_products": "Pudiera interesarle",
+  "empty": "Carro vacío",
+  "minimun": "Mínimo",
+  "search_products": "Buscar productos"
+}

@@ -1,0 +1,18 @@
+{
+  "lang": "Language",
+  "select": "Select",
+  "all_products": "All products",
+  "order_summary": "Order Summary",
+  "cart_number_of_items": "Number of items",
+  "proceed_to_checkout": "Proceed to Checkout",
+  "continue_shooping": "Continue shooping",
+  "my_cart": "My Cart",
+  "pack": "PACK",
+  "quantity": "Quantity",
+  "remove": "Remove",
+  "edit_pack": "Edit pack",
+  "another_products": "You might also like",
+  "empty": "Empty",
+  "minimun": "Minimun",
+  "search_products": "Search Products"
+}
