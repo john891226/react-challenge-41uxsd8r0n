@@ -40,7 +40,7 @@ export const useLoadProducts = () => {
     },
 
     async loadCartProducts() {
-      if (cartStore.state.productsTypesLang) return;
+      if (!cartStore.state.productsTypesLang) return;
 
       await loadCartProducts();
     },
