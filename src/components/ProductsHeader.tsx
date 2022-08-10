@@ -28,16 +28,16 @@ function ProductsHeader({ onChange, value = "*" }: Props) {
       bgcolor="dark.10"
       alignItems={"center"}
       sx={{
-        height: "64px",
+        // height: "64px",
+        paddingY: {
+          xs: "20px",
+        },
         paddingX: {
+          xs: "20px",
           sm: "92px",
         },
         gap: "24px",
         cursor: "pointer",
-        display: {
-          xs: "none",
-          md: "flex",
-        },
       }}
     >
       {products.map((c) => (
