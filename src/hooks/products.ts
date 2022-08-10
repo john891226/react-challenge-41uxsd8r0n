@@ -34,7 +34,7 @@ export const useLoadProducts = () => {
 
   return {
     async loadProductsTypes() {
-      if (cartStore.state.productsTypesLang) return;
+      if (!cartStore.state.productsTypesLang) return;
 
       await loadProductsTypes();
     },
